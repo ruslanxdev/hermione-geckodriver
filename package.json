@@ -1,0 +1,24 @@
+{
+  "name": "hermione-geckodriver",
+  "version": "1.0.0",
+  "description": "Hermione plugin for lounch geckodriver.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslankhh/hermione-geckodriver.git"
+  },
+  "keywords": [
+    "hermione",
+    "hermione-plugin",
+    "geckodriver"
+  ],
+  "author": "Ruslan Khusnetdinov <ruslankhh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruslankhh/hermione-geckodriver/issues"
+  },
+  "homepage": "https://github.com/ruslankhh/hermione-geckodriver#readme"
+}
